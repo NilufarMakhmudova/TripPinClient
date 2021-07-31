@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Bwn6/oSpdY7zKj3dr4jNpX4Myzi3kbaevVqxYWnGx5vT2sfNb6J1+9AoKCWx9fGiyE/1sX7DqBO8B8Om86AEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mahmu\\source\\repos\\TripPinClient\\TripPinClient\\TripPinClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mahmu\\.nuget\\packages\\microsoft.odata.core\\7.9.0\\microsoft.odata.core.7.9.0.nupkg.sha512",
+    "C:\\Users\\mahmu\\.nuget\\packages\\microsoft.odata.edm\\7.9.0\\microsoft.odata.edm.7.9.0.nupkg.sha512",
+    "C:\\Users\\mahmu\\.nuget\\packages\\microsoft.spatial\\7.9.0\\microsoft.spatial.7.9.0.nupkg.sha512",
+    "C:\\Users\\mahmu\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
+    "C:\\Users\\mahmu\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
+    "C:\\Users\\mahmu\\.nuget\\packages\\simple.odata.v4.client\\5.24.0\\simple.odata.v4.client.5.24.0.nupkg.sha512",
+    "C:\\Users\\mahmu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
+    "C:\\Users\\mahmu\\.nuget\\packages\\system.text.encodings.web\\4.6.0\\system.text.encodings.web.4.6.0.nupkg.sha512",
+    "C:\\Users\\mahmu\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,165 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TripPinClient/1.0.0": {
+        "dependencies": {
+          "Serilog.Sinks.File": "5.0.0",
+          "Simple.OData.V4.Client": "5.24.0"
+        },
+        "runtime": {
+          "TripPinClient.dll": {}
+        }
+      },
+      "Microsoft.OData.Core/7.9.0": {
+        "dependencies": {
+          "Microsoft.OData.Edm": "7.9.0",
+          "Microsoft.Spatial": "7.9.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.OData.Core.dll": {
+            "assemblyVersion": "7.9.0.0",
+            "fileVersion": "7.9.0.20512"
+          }
+        }
+      },
+      "Microsoft.OData.Edm/7.9.0": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.6.0",
+          "System.Text.Encodings.Web": "4.6.0",
+          "System.Text.Json": "5.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.OData.Edm.dll": {
+            "assemblyVersion": "7.9.0.0",
+            "fileVersion": "7.9.0.20512"
+          }
+        }
+      },
+      "Microsoft.Spatial/7.9.0": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Spatial.dll": {
+            "assemblyVersion": "7.9.0.0",
+            "fileVersion": "7.9.0.20512"
+          }
+        }
+      },
+      "Serilog/2.10.0": {
+        "runtime": {
+          "lib/netstandard2.1/Serilog.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.10.0.0"
+          }
+        }
+      },
+      "Serilog.Sinks.File/5.0.0": {
+        "dependencies": {
+          "Serilog": "2.10.0"
+        },
+        "runtime": {
+          "lib/net5.0/Serilog.Sinks.File.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "Simple.OData.V4.Client/5.24.0": {
+        "dependencies": {
+          "Microsoft.OData.Core": "7.9.0",
+          "System.Text.Json": "5.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Simple.OData.Client.Core.dll": {
+            "assemblyVersion": "5.24.0.0",
+            "fileVersion": "5.24.0.0"
+          },
+          "lib/netstandard2.0/Simple.OData.Client.Dynamic.dll": {
+            "assemblyVersion": "5.24.0.0",
+            "fileVersion": "5.24.0.0"
+          },
+          "lib/netstandard2.0/Simple.OData.Client.V4.Adapter.dll": {
+            "assemblyVersion": "5.24.0.0",
+            "fileVersion": "5.24.0.0"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.6.0": {},
+      "System.Text.Encodings.Web/4.6.0": {},
+      "System.Text.Json/5.0.2": {}
+    }
+  },
+  "libraries": {
+    "TripPinClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.OData.Core/7.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pnD2w0osGjvcSsj3HenpNJie2kFyhe9KzkPdIINgxk9TxG57GMcr01TEWSDxPtJUsWBwUnYIdgp9PIztYobo7Q==",
+      "path": "microsoft.odata.core/7.9.0",
+      "hashPath": "microsoft.odata.core.7.9.0.nupkg.sha512"
+    },
+    "Microsoft.OData.Edm/7.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gEa7j3bVwJQH8QaB2pmCsrIn8XYivXUpqCp0ipHMq6+LO0oGmx1zs6a/KFyAnU97enQDDAwe5kofehq+1sHlow==",
+      "path": "microsoft.odata.edm/7.9.0",
+      "hashPath": "microsoft.odata.edm.7.9.0.nupkg.sha512"
+    },
+    "Microsoft.Spatial/7.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AuiReHSXy5iwtwQr4ZyLCAV+Bh9mvPXyilHICVE84Pbmlu/sDy7CtK5M3EDHeaA6ki0bpHk3pNUqFCN0QCwgJA==",
+      "path": "microsoft.spatial/7.9.0",
+      "hashPath": "microsoft.spatial.7.9.0.nupkg.sha512"
+    },
+    "Serilog/2.10.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+QX0hmf37a0/OZLxM3wL7V6/ADvC1XihXN4Kq/p6d8lCPfgkRdiuhbWlMaFjR9Av0dy5F0+MBeDmDdRZN/YwQA==",
+      "path": "serilog/2.10.0",
+      "hashPath": "serilog.2.10.0.nupkg.sha512"
+    },
+    "Serilog.Sinks.File/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uwV5hdhWPwUH1szhO8PJpFiahqXmzPzJT/sOijH/kFgUx+cyoDTMM8MHD0adw9+Iem6itoibbUXHYslzXsLEAg==",
+      "path": "serilog.sinks.file/5.0.0",
+      "hashPath": "serilog.sinks.file.5.0.0.nupkg.sha512"
+    },
+    "Simple.OData.V4.Client/5.24.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5KAZtNLvkVR2TybAaBejKBnwgioNVDpIE0A7e5DpNgB+MUa3SRX1MHZwHOixRupIx+6NrQerpKKHx/COUpa7Lw==",
+      "path": "simple.odata.v4.client/5.24.0",
+      "hashPath": "simple.odata.v4.client.5.24.0.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HxozeSlipUK7dAroTYwIcGwKDeOVpQnJlpVaOkBz7CM4TsE5b/tKlQBZecTjh6FzcSbxndYaxxpsBMz+wMJeyw==",
+      "path": "system.runtime.compilerservices.unsafe/4.6.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+    },
+    "System.Text.Encodings.Web/4.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BXgFO8Yi7ao7hVA/nklD0Hre1Bbce048ZqryGZVFifGNPuh+2jqF1i/jLJLMfFGZIzUOw+nCIeH24SQhghDSPw==",
+      "path": "system.text.encodings.web/4.6.0",
+      "hashPath": "system.text.encodings.web.4.6.0.nupkg.sha512"
+    },
+    "System.Text.Json/5.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-I47dVIGiV6SfAyppphxqupertT/5oZkYLDCX6vC3HpOI4ZLjyoKAreUoem2ie6G0RbRuFrlqz/PcTQjfb2DOfQ==",
+      "path": "system.text.json/5.0.2",
+      "hashPath": "system.text.json.5.0.2.nupkg.sha512"
+    }
+  }
+}

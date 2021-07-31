@@ -1,0 +1,14 @@
+2021-08-01 00:56:38.003 +05:00 [INF] GET request: https://services.odata.org/V4/TripPinServiceRW/$metadata
+2021-08-01 00:56:40.795 +05:00 [INF] Request completed: OK
+2021-08-01 00:56:41.063 +05:00 [INF] GET request: https://services.odata.org/V4/TripPinServiceRW/People?$count=true
+2021-08-01 00:56:41.696 +05:00 [INF] Request completed: OK
+2021-08-01 00:56:41.975 +05:00 [INF] GET request: https://services.odata.org/V4/(S(ka0fjaohzin0dpf5a1xt2sft))/TripPinServiceRW/People?%24count=true&%24skiptoken=8
+2021-08-01 00:56:42.318 +05:00 [INF] Request completed: OK
+2021-08-01 00:56:42.323 +05:00 [INF] GET request: https://services.odata.org/V4/(S(ka0fjaohzin0dpf5a1xt2sft))/TripPinServiceRW/People?%24count=true&%24skiptoken=16
+2021-08-01 00:56:42.651 +05:00 [INF] Request completed: OK
+2021-08-01 00:56:53.717 +05:00 [INF] GET request: https://services.odata.org/V4/TripPinServiceRW/People?$filter=contains%28tolower%28FirstName%29%2C%27joni%27%29%20or%20contains%28tolower%28LastName%29%2C%27joni%27%29
+2021-08-01 00:56:54.321 +05:00 [INF] Request completed: OK
+2021-08-01 00:57:05.963 +05:00 [INF] GET request: https://services.odata.org/V4/TripPinServiceRW/People(%27jonirosales%27)
+2021-08-01 00:57:06.573 +05:00 [INF] Request completed: OK
+2021-08-01 00:57:13.699 +05:00 [INF] GET request: https://services.odata.org/V4/TripPinServiceRW/Me
+2021-08-01 00:57:14.284 +05:00 [INF] Request completed: OK
